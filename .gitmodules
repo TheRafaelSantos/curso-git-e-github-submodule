@@ -1,0 +1,4 @@
+[submodule "curso-git-e-github-submodule"]
+	path = curso-git-e-github-submodule
+	url = https://github.com/TheRafaelSantos/curso-git-e-github-submodule.git
+	branch = testando_show
